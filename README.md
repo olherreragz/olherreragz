@@ -9,7 +9,11 @@
 
 ![Stay_Tuned](https://img.shields.io/badge/Stay_Tuned-Updates_coming_soon-green?style=flat-square)
 
-**Repositories under construction. New content will be released soon... Stay tuned!**
+Repositories under construction.
+
+New content will be released soon... Stay tuned!
+
+_________
 
 **Repositorios en construcción! Pronto se publicarán cosas nuevas!**
 
