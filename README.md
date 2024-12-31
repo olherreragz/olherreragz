@@ -1,16 +1,16 @@
-## Hi there 👋
+## Nota:
 
 <!--
-**olherreragz/olherreragz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**olherreragz/olherreragz** is a _special_ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+![Status](https://img.shields.io/badge/Profile-Under_Construction-yellow?style=flat-square)
+
+![Stay_Tuned](https://img.shields.io/badge/Stay_Tuned-Updates_coming_soon-green?style=flat-square)
+
+**Repositories under construction. New content will be released soon... Stay tuned!**
+
+**Repositorios en construcción! Pronto se publicarán cosas nuevas!**
+
+
