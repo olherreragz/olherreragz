@@ -15,6 +15,6 @@ New content will be released soon... Stay tuned!
 
 _________
 
-**Repositorios en construcción! Pronto se publicarán cosas nuevas!**
+Repositorios en construcción! Pronto se publicarán cosas nuevas!
 
 
