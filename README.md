@@ -94,40 +94,23 @@ En mi LinkedIn se encuentra la lista de todos los softwares con los que trabajo.
 Mi "all-time ranking" de papers favoritos:
 
 
-1) **Monetary Policy and Asset Price Overshooting: A Rationale for the Wall/Main Street Disconnect.**
+1) **Monetary Policy and Asset Price Overshooting: A Rationale for the Wall/Main Street Disconnect.** Caballero & Simsek, 2024.
 
-    (Caballero & Simsek, 2024).
+2) **The Hedging Channel of Exchange Rate Determination.** Zhang & Liao, 2025.
 
-2) **The Hedging Channel of Exchange Rate Determination.**
+3) **Deviations from Covered Interest Rate Parity.** Du, Tepper & Verdelhan, 2018.
 
-    (Zhang & Liao, 2025)
+4) **Price Impacts of Block Trading on the New York Stock Exchange.** Kraus & Stoll, 1972. (An all-time classic)
 
-3) **Deviations from Covered Interest Rate Parity.**
-    
-    (Du, Tepper & Verdelhan, 2018)
-4) **Price Impacts of Block Trading on the New York Stock Exchange.**
+5) **(Unobserved) Heterogeneity in the Bank Lending Channel.** Villacorta, Villacorta & Gutiérrez, Working Paper.
 
-    (Kraus & Stoll, 1972) (An all-time classic)
+6) **High-Frequency Trading Around Large Institutional Orders.** Van Kervel & Menkveld, 2019.
 
-5) **(Unobserved) Heterogeneity in the Bank Lending Channel.**
+7) **Algorithmic financial trading with deep convolutional neural networks: Time series to image conversion approach.** Sezer & Ozbayoglu, 2018.
 
-    (Villacorta, Villacorta & Gutiérrez, Working Paper)
+8) **Do Actions Speak Louder Than Words? The Response of Asset Prices to Monetary Policy Actions and Statements.** Gurkaynak, Sack & Swanson, 2005.
 
-6) **High-Frequency Trading Around Large Institutional Orders.**
-
-    (Van Kervel & Menkveld, 2019)
-
-7) **Algorithmic financial trading with deep convolutional neural networks: Time series to image conversion approach.**
-
-    (Sezer & Ozbayoglu, 2018)
-
-8) **Do Actions Speak Louder Than Words? The Response of Asset Prices to Monetary Policy Actions and Statements.**
-
-    (Gurkaynak, Sack & Swanson, 2005)
-
-9) **Optimal control of execution costs.**
-    
-    (Berstimas & Lo, 1998)
+9) **Optimal control of execution costs.** Berstimas & Lo, 1998.
 
 
 
