@@ -75,9 +75,9 @@ _________
 
 ## About me
 
-MAE PUC especializado en integrar aspectos de economía financiera, computación y data science. Las líneas de investigación en las que estoy más interesado son Economía Financiera, Market Microstructure, Macro-Finanzas y relación entre política monetaria y mercados financieros.
+MAE PUC especializado en integrar aspectos de economía financiera, computación y data science. Las líneas de investigación en las que estoy más interesado son: Economía Financiera, Market Microstructure, Macro-Finanzas y relación Política Monetaria-Mercados Financieros.
 
-Actualmente me desempeño como ayudante de distintos cursos, incluídos de nivel de magíster, y me encuentro en vías de titulación.
+Actualmente me desempeño como ayudante de distintos cursos de nivel de magíster, y me encuentro en vías de titulación.
 
 Softwares con los que más disfruto trabajar y con los cuales más experiencia tengo:
 
