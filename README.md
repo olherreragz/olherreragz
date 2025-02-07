@@ -91,7 +91,7 @@ Courses as Teaching Assistant:
 </table>
 
 
-Economic Title Comprehensive Exam:
+Economics Title Comprehensive Exam:
 
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
