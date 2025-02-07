@@ -17,6 +17,9 @@ _________
 
 ## Repositories Status
 
+Courses as Student:
+
+
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr>
     <td>Econometric Theory 3</td>
@@ -69,6 +72,21 @@ _________
   <tr>
     <td>Advanced Programming</td>
     <td>(Stage: Not Created)</td>
+  </tr>
+</table>
+
+
+Courses as Teaching Assistant:
+
+
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr>
+    <td>Macroeconomics II (Undergraduate)</td>
+    <td>(Stage: Ready)</td>
+  </tr>
+  <tr>
+    <td>Economics and Data Science (Undergraduate)</td>
+    <td>(Stage: Ready)</td>
   </tr>
 </table>
 
