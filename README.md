@@ -91,6 +91,25 @@ Courses as Teaching Assistant:
 </table>
 
 
+Economics Comprehensive Exam:
+
+
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr>
+    <td>Apuntes Examen de Grado Macroeconomía</td>
+    <td>(Stage: Not Created)</td>
+  </tr>
+  <tr>
+    <td>Apuntes Examen de Grado Microeconomía</td>
+    <td>(Stage: Not Created)</td>
+  </tr>
+  <tr>
+    <td>Apuntes Examen de Grado Econometría</td>
+    <td>(Stage: Not Created)</td>
+  </tr>
+</table>
+
+
 ## About me
 
 MAE PUC especializado en integrar aspectos de economía financiera, computación y data science. Las líneas de investigación en las que estoy más interesado son: Economía Financiera, Market Microstructure, Macro-Finanzas y relación Política Monetaria-Mercados Financieros.
