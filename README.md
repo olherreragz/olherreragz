@@ -34,7 +34,7 @@ Courses as Student:
     <td>(Stage: Almost Ready)</td>
   </tr>
   <tr>
-    <td>Financial risk management</td>
+    <td>Financial Risk Management</td>
     <td>(Stage: Version 1 of 3)</td>
   </tr>
   <tr>
