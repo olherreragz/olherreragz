@@ -150,7 +150,6 @@ Mi "all-time ranking" de papers favoritos:
 
 ## Servicios
 
-Por anunciar...
+Clases particulares y creación de códigos para CVs personalizados.
 
-Spoilers: clases particulares y creación de códigos para CVs personalizados.
-
+Pronto compartiré más detalles!
