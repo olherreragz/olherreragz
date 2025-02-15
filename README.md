@@ -18,54 +18,67 @@ Courses as Student:
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr>
+    <td>Teoría Econométrica 3</td>
     <td>Econometric Theory 3</td>
     <td>(Stage: Almost Ready)</td>
   </tr>
   <tr>
+    <td>Macroeconometría Aplicada</td>
     <td>Applied Macroeconometrics</td>
     <td>(Stage: Almost Ready)</td>
   </tr>
   <tr>
+    <td>Teoría Macroeconómica 1</td>
     <td>Macroeconomic Theory 1</td>
     <td>(Stage: Almost Ready)</td>
   </tr>
   <tr>
+    <td>Gestión de Riesgo Financiero</td>
     <td>Financial Risk Management</td>
     <td>(Stage: Version 1 of 3)</td>
   </tr>
   <tr>
+    <td>Finanzas 1</td>
     <td>Finance 1</td>
     <td>(Stage: Assignment Instructions Up)</td>
   </tr>
   <tr>
+    <td>Teoría Econométrica 1</td>
     <td>Econometric Theory 1</td>
     <td>(Stage: Assignment Instructions Up)</td>
   </tr>
   <tr>
+    <td>Macroeconomía Internacional</td>
     <td>International Macroeconomics</td>
     <td>(Stage: Created)</td>
   </tr>
   <tr>
     <td>Machine Learning & Big Data</td>
+    <td>Machine Learning & Big Data</td>
     <td>(Stage: Created)</td>
   </tr>
   <tr>
+    <td>Trading en Mercados Financieros Modernos</td>
     <td>Trading in Modern Financial Markets</td>
     <td>(Stage: Not Created)</td>
   </tr>
   <tr>
+    <td>Teoría Macroeconómica 2</td>
     <td>Macroeconomic Theory 2</td>
     <td>(Stage: Not Created)</td>
   </tr>
   <tr>
+    <td>Modelos Dinámicos de Equilibrio General Estocástico</td>
     <td>DSGE Models</td>
     <td>(Stage: Not Created)</td>
   </tr>
   <tr>
+    <td>Tópicos en Macroeconometría Aplicada</td>
     <td>Topics in Applied Macroeconometrics</td>
     <td>(Stage: Not Created)</td>
   </tr>
   <tr>
+    <td>Programación Avanzada</td>
     <td>Advanced Programming</td>
     <td>(Stage: Not Created)</td>
   </tr>
@@ -77,10 +90,12 @@ Courses as Teaching Assistant:
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr>
+    <td>Macroeconomía II (Pregrado)</td>
     <td>Macroeconomics II (Undergraduate)</td>
     <td>(Stage: Ready)</td>
   </tr>
   <tr>
+    <td>Economía y Ciencia de Datos (Pregrado)</td>
     <td>Economics and Data Science (Undergraduate)</td>
     <td>(Stage: Ready)</td>
   </tr>
