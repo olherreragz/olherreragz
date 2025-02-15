@@ -151,6 +151,6 @@ Mi "all-time ranking" de papers favoritos:
 ## Servicios
 
 
-Contáctame por _**clases particulares**_ y _**creación de código para CVs personalizados**_.
+Contáctame por _**clases particulares**_ o _**creación de código para CVs personalizados**_.
 
 Pronto compartiré más detalles en nuevos repositorios!
