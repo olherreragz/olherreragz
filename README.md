@@ -11,7 +11,16 @@ Repositorios de cursos Comercial UC / Economía en construcción! Pronto se publ
 _________
 
 
-### Repositories Status
+### Contáctame
+
+
+Contáctame si te interesan _**clases particulares**_ o _**creación de códigos para CVs personalizados**_.
+
+Pronto compartiré más detalles en nuevos repositorios!
+
+
+
+## Repositories Status
 
 Courses as Student:
 
@@ -161,11 +170,3 @@ Mi "all-time ranking" de papers favoritos:
 9) **Optimal control of execution costs.** Berstimas & Lo, 1998.
 
 
-
-
-## Servicios
-
-
-Contáctame por _**clases particulares**_ o _**creación de código para CVs personalizados**_.
-
-Pronto compartiré más detalles en nuevos repositorios!
