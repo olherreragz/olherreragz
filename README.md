@@ -132,7 +132,7 @@ Economics Title Comprehensive Exam:
 
 ## About me
 
-MAE PUC con especialización en integrar economía financiera, ciencias de la computación y _data science_, en contextos de investigación. Líneas de investigación en las cuales mayor interés tengo: macro-finanzas, _market microstructure_, y relación entre política monetaria y mercados financieros.
+MAE PUC con especialización en integrar economía financiera, ciencias de la computación y _data science_, en contextos de investigación. Las líneas de investigación en las cuales mayor interés tengo son: macro-finanzas, _market microstructure_, y relación entre política monetaria y mercados financieros.
 
 Actualmente me desempeño como ayudante de distintos cursos de nivel magíster, y me encuentro en vías de titulación.
 
@@ -145,7 +145,7 @@ Softwares con los que más disfruto trabajar y con los cuales más experiencia t
 - SQL
 - LaTeX
 
-En mi LinkedIn se encuentra una lista detallada de todos los softwares y tecnologías en las cuales poseo conocimiento y experiencia.
+En mi LinkedIn se encuentra una lista detallada de todos los softwares y tecnologías en las que tengo conocimiento y experiencia.
 
 
 Dato Freak... Mi "all-time ranking" de papers favoritos es el siguiente:
